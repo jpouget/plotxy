@@ -1,0 +1,8 @@
+bass
+carp
+catfish
+perch
+pickerel
+pike
+salmon
+squid
